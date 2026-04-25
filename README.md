@@ -42,6 +42,31 @@ This project represents a **cutting-edge cybersecurity defense system** that sim
 
 ---
 
+## 👥 Project Team & Contributions
+
+This semster project was collaboratively developed as part of an academic cybersecurity initiative, focusing on practical implementation of SYN Flood attack detection and mitigation techniques. Each team member contributed to different components of the system, including development, testing, and documentation.
+
+### 👨‍💻 Saad Ali  
+- **Registration Number:** UW-23-CY-BS-050  
+- **GitHub:** https://github.com/Saadi-09  
+
+**Contribution:**  
+Actively contributed to the design and implementation of the network monitoring and mitigation workflow. Assisted in configuring detection logic, integrating firewall-based response mechanisms, and performing testing for real-time attack simulation and validation. Also supported debugging and overall system refinement.
+
+---
+
+### 👨‍💻 Muhammad Azfar Waqas  
+- **Registration Number:** UW-23-CY-BS-013  
+- **GitHub:** https://github.com/MAK554267  
+
+**Contribution:**  
+Contributed to system development, including attack simulation setup, script configuration, and validation of communication between attacker and server environments. Assisted in testing system behavior and ensuring proper execution of detection and mitigation phases.
+
+### Supervisor: Sir Afrasiab Sultan
+### Course: Information Security
+
+---
+
 ## 🏗️ System Architecture
 
 ### Advanced Multi-Component Design
