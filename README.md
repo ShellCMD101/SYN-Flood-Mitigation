@@ -67,7 +67,7 @@ Contributed to system development, including attack simulation setup, script con
 ### 👨‍💻 Muhammad Haris
 
 -   **Registration:** UW-22-CS-BS-032
--   **GitHub:** [https://github.com/ShellCMD101](https://github.com/ShellCMD101)
+-   **GitHub:** https://github.com/ShellCMD101
 
 **Contribution:** 
 Developed the core packet-sniffing logic and detection algorithms using Scapy. Responsible for the integration of Windows Firewall rules via subprocess management and the design of the real-time visualization module. Ensured system stability through multi-threaded execution and optimized the forensic logging system.
